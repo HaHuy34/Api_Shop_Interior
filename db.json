@@ -105,6 +105,19 @@
         "api2": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture10_2-430x490.jpg.webp",
         "api3": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture12-200x230.jpg"
       }
+    },
+    {
+      "id": 4,
+      "title": "Vienna Dining Chair",
+      "price": 32.0,
+      "del": 40.0,
+      "image": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture5_3-430x490.jpg.webp",
+      "rating": 23,
+      "background_images": {
+        "api1": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture5_3-430x490.jpg.webp",
+        "api2": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture5-700x800.jpg.webp",
+        "api3": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture5_2-200x230.jpg.webp"
+      }
     }
   ]
 }
