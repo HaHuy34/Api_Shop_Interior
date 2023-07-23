@@ -1,5 +1,5 @@
 {
-  "exclusive_products": [
+  "products": [
     {
       "id": 1,
       "title": "Enim Expedita Sed",
@@ -64,6 +64,60 @@
       "image": "https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img8.jpg",
       "rating": 24
     }
+  ],
+  "trending_items": [
+    {
+      "id": 1,
+      "title": "Pu Leather Leather",
+      "price": 35.0,
+      "del": 45.0,
+      "image": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture4.jpg",
+      "rating": 15,
+      "background_images": {
+        "api1": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture4-430x490.jpg.webp",
+        "api2": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture4_5-200x230.jpg.webp",
+        "api3": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture4_2-200x230.jpg.webp",
+        "api4": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture4_3-430x490.jpg.webp"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Vivant janus charles",
+      "price": 36.0,
+      "del": 43.0,
+      "image": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2022/03/product-accessories-12-2-131x150.jpg.webp",
+      "rating": 15,
+      "background_images": {
+        "api1": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2022/03/product-accessories-12-2-131x150.jpg.webp",
+        "api2": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2022/03/product-accessories-12-1-430x492.jpg.webp",
+        "api3": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2022/03/product-accessories-12-131x150.jpg.webp"
+      }
+    },
+    {
+      "id": 3,
+      "title": "enim expedita sed",
+      "price": 45.0,
+      "del": 55.0,
+      "image": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture10-700x800.jpg.webp",
+      "rating": 21,
+      "background_images": {
+        "api1": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture10-700x800.jpg.webp",
+        "api2": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture10_2-430x490.jpg.webp",
+        "api3": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture12-200x230.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Vienna Dining Chair",
+      "price": 32.0,
+      "del": 40.0,
+      "image": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture5_3-430x490.jpg.webp",
+      "rating": 23,
+      "background_images": {
+        "api1": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture5_3-430x490.jpg.webp",
+        "api2": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture5-700x800.jpg.webp",
+        "api3": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture5_2-200x230.jpg.webp"
+      }
+    }
   ]
-  
 }
