@@ -2,13 +2,13 @@
   "product": [
     {
       "id": 1,
-      "title": "product-1",
-      "price": 200000,
+      "title": "Huy Ha",
+      "price": 2000000000000000000,
       "rating": 8.5
     },
     {
       "id": 2,
-      "title": "product-2",
+      "title": "Ha Huy",
       "price": 300000,
       "rating": 10
     },
