@@ -5,7 +5,7 @@
       "title": "Enim Expedita Sed",
       "price": 45.0,
       "del": 55.0,
-      "image": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/product-furniture-1.jpg",
+      "image": "https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img1.jpg",
       "rating": 15
     },
     {
@@ -13,7 +13,7 @@
       "title": "Randomised Humour",
       "price": 65.0,
       "del": 75.0,
-      "image": "./images/ImagesFigma/furniture_img2.jpg",
+      "image": "https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img2.jpg",
       "rating": 25
     },
     {
@@ -21,7 +21,7 @@
       "title": "Many Publishingr",
       "price": 69.0,
       "del": 89.0,
-      "image": "./images/ImagesFigma/furniture_img3.jpg",
+      "image": "https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img3.jpg",
       "rating": 22
     },
     {
@@ -29,7 +29,7 @@
       "title": "Tend To Repeat",
       "price": 40.0,
       "del": 55.25,
-      "image": "./images/ImagesFigma/furniture_img4.jpg",
+      "image": "https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img4.jpg",
       "rating": 21
     },
     {
@@ -37,7 +37,7 @@
       "title": "Injected Repetition",
       "price": 35.0,
       "del": 45.15,
-      "image": "./images/ImagesFigma/furniture_img5.jpg",
+      "image": "https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img5.jpg",
       "rating": 25
     },
     {
@@ -45,7 +45,7 @@
       "title": "Itaque Earum",
       "price": 37.0,
       "del": 42.65,
-      "image": "./images/ImagesFigma/furniture_img6.jpg",
+      "image": "https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img6.jpg",
       "rating": 12
     },
     {
@@ -53,26 +53,58 @@
       "title": "Expedita Distinctio",
       "price": 55.0,
       "del": 75.0,
-      "image": "./images/ImagesFigma/furniture_img7.jpg",
+      "image": "https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img7.jpg",
       "rating": 23
     },
     {
       "id": 8,
       "title": "Randomised Words",
       "price": 39.0,
-      "del": 47.00,
-      "image": "./images/ImagesFigma/furniture_img8.jpg",
+      "del": 47.0,
+      "image": "https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img8.jpg",
       "rating": 24
     }
   ],
-  "comments": [
+  "trending_items": [
     {
       "id": 1,
-      "title": "San pham rat tot"
+      "title": "Pu Leather Leather",
+      "price": 35.0,
+      "del": 45.0,
+      "image": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture4.jpg",
+      "rating": 15,
+      "background_images": {
+        "api1": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture4-430x490.jpg.webp",
+        "api2": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture4_5-200x230.jpg.webp",
+        "api3": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture4_2-200x230.jpg.webp",
+        "api4": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture4_3-430x490.jpg.webp"
+      }
     },
     {
       "id": 2,
-      "title": "San pham rat tot"
+      "title": "Vivant janus charles",
+      "price": 36.0,
+      "del": 43.0,
+      "image": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2022/03/product-accessories-12-2-131x150.jpg.webp",
+      "rating": 15,
+      "background_images": {
+        "api1": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2022/03/product-accessories-12-2-131x150.jpg.webp",
+        "api2": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2022/03/product-accessories-12-1-430x492.jpg.webp",
+        "api3": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2022/03/product-accessories-12-131x150.jpg.webp"
+      }
+    },
+    {
+      "id": 3,
+      "title": "enim expedita sed",
+      "price": 45.0,
+      "del": 55.0,
+      "image": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture10-700x800.jpg.webp",
+      "rating": 21,
+      "background_images": {
+        "api1": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture10-700x800.jpg.webp",
+        "api2": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture10_2-430x490.jpg.webp",
+        "api3": "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/furniture12-200x230.jpg"
+      }
     }
   ]
 }
