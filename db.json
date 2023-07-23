@@ -5,7 +5,7 @@
       "title": "Enim Expedita Sed",
       "price": 45.0,
       "del": 55.0,
-      "image": "images/ImagesFigma/furniture_img1.jpg",
+      "image": "./images/ImagesFigma/furniture_img1.jpg",
       "rating": 15
     },
     {
@@ -13,7 +13,7 @@
       "title": "Randomised Humour",
       "price": 65.0,
       "del": 75.0,
-      "image": "images/ImagesFigma/furniture_img2.jpg",
+      "image": "./images/ImagesFigma/furniture_img2.jpg",
       "rating": 25
     },
     {
@@ -21,7 +21,7 @@
       "title": "Many Publishingr",
       "price": 69.0,
       "del": 89.0,
-      "image": "images/ImagesFigma/furniture_img3.jpg",
+      "image": "./images/ImagesFigma/furniture_img3.jpg",
       "rating": 22
     },
     {
@@ -29,7 +29,7 @@
       "title": "Tend To Repeat",
       "price": 40.0,
       "del": 55.25,
-      "image": "images/ImagesFigma/furniture_img4.jpg",
+      "image": "./images/ImagesFigma/furniture_img4.jpg",
       "rating": 21
     },
     {
@@ -37,7 +37,7 @@
       "title": "Injected Repetition",
       "price": 35.0,
       "del": 45.15,
-      "image": "images/ImagesFigma/furniture_img5.jpg",
+      "image": "./images/ImagesFigma/furniture_img5.jpg",
       "rating": 25
     },
     {
@@ -45,7 +45,7 @@
       "title": "Itaque Earum",
       "price": 37.0,
       "del": 42.65,
-      "image": "images/ImagesFigma/furniture_img6.jpg",
+      "image": "./images/ImagesFigma/furniture_img6.jpg",
       "rating": 12
     },
     {
@@ -53,7 +53,7 @@
       "title": "Expedita Distinctio",
       "price": 55.0,
       "del": 75.0,
-      "image": "images/ImagesFigma/furniture_img7.jpg",
+      "image": "./images/ImagesFigma/furniture_img7.jpg",
       "rating": 23
     },
     {
@@ -61,7 +61,7 @@
       "title": "Randomised Words",
       "price": 39.0,
       "del": 47.00,
-      "image": "images/ImagesFigma/furniture_img8.jpg",
+      "image": "./images/ImagesFigma/furniture_img8.jpg",
       "rating": 24
     }
   ],
